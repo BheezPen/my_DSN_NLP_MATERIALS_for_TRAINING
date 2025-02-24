@@ -7,6 +7,8 @@
 02 Tokenization in NLP.ipynb - https://colab.research.google.com/drive/1Zwd_cnfZ6n1XTdpv-Wqaw9WE-ZdV4xBq#scrollTo=d939bdb0-74d7-40cf-b515-307adbda6b11
 
 
+WORD EMBEDDING.IPYNB (explained word embedding of Numerical Representation) - https://colab.research.google.com/drive/1xICEJSs7ewjjmacDsbEIIe6qZa3EvWnE#scrollTo=lMzuoBBgJKFo
+
 
 
 
