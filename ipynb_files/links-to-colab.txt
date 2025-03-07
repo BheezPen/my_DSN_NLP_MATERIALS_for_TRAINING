@@ -1,7 +1,8 @@
 01 Text Proprocessing.ipynb - https://colab.research.google.com/drive/1fDlD4dsR020wWThjdFh2-ymJfksgRFD8#scrollTo=hSqMtd5paXaj
 
 
-
+STOPPED HERE:
+Text Preprocessing -  https://colab.research.google.com/drive/1fDlD4dsR020wWThjdFh2-ymJfksgRFD8#scrollTo=f0be795e-a81e-4042-a457-199385e35a70
 
 
 02 Tokenization in NLP.ipynb - https://colab.research.google.com/drive/1Zwd_cnfZ6n1XTdpv-Wqaw9WE-ZdV4xBq#scrollTo=d939bdb0-74d7-40cf-b515-307adbda6b11
