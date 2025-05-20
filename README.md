@@ -32,21 +32,21 @@ This training is structured into 5 days training:
 * **Video Recording:** [Watch Session](https://drive.google.com/file/d/1RiMM2Fv5YEPvGqKIEjAjDVtEbpdS1fCs/view?usp=sharing)
 
 ### Day 2: 
-* **Topics Covered:** Tokenization, Stemming, Lemmatization, Stop Word Removal, Regular Expressions, Bag-of-Words (BoW), TF-IDF.
+* **Topics Covered:**
 * **Slides:** [Download PDF Slides](slides/NATURAL%20LANGUAGE%20PROCESSING%20slides%20for%20day%202.pdf)
 * **Notes:** [Download PDF Notes](notes/day_2_text_preprocessing_notes.pdf)
 * **Notebook:** [Open in Colab](YOUR_COLAB_LINK_DAY2) | [View on GitHub](notebooks/day_2_text_preprocessing/day_2_text_preprocessing_notebook.ipynb)
 * **Video Recording:** [Watch Session](https://drive.google.com/file/d/1qaAJEvuIs_FXnh5rMpABUK33MldrnO3_/view?usp=sharing)
 
 ### Day 3: 
-* **Topics Covered:** Tokenization, Stemming, Lemmatization, Stop Word Removal, Regular Expressions, Bag-of-Words (BoW), TF-IDF.
+* **Topics Covered:**
 * **Slides:** [Download PDF Slides](slides/NATURAL%20LANGUAGE%20PROCESSING%20slides%20for%20day%203.pdf)
 * **Notes:** [Download PDF Notes](notes/day_2_text_preprocessing_notes.pdf)
 * **Notebook:** [Open in Colab](YOUR_COLAB_LINK_DAY2) | [View on GitHub](notebooks/day_2_text_preprocessing/day_2_text_preprocessing_notebook.ipynb)
 * **Video Recording:** [Watch Session](https://drive.google.com/file/d/16Vs0aVZKPgbXwWyWJ0TS0SE-qvPfOaDX/view?usp=sharing)
 
 ### Day 4: 
-* **Topics Covered:** Tokenization, Stemming, Lemmatization, Stop Word Removal, Regular Expressions, Bag-of-Words (BoW), TF-IDF.
+* **Topics Covered:**
 * **Slides:** [Download PDF Slides](slides/NATURAL%20LANGUAGE%20PROCESSING%20slides%20for%20day%204.pdf)
 * **Notes:** [Download PDF Notes](notes/day_2_text_preprocessing_notes.pdf)
 * **Notebook:** [Open in Colab](YOUR_COLAB_LINK_DAY2) | [View on GitHub](notebooks/day_2_text_preprocessing/day_2_text_preprocessing_notebook.ipynb)
@@ -55,8 +55,8 @@ This training is structured into 5 days training:
 ### Day 5: 
 * **Topics Covered:** Hands-On Project
 * **Slides:** [Download PDF Slides]()
-* **Notes:** [Download PDF Notes](notes/day_2_text_preprocessing_notes.pdf)
-* **Notebook:** [Open in Colab](YOUR_COLAB_LINK_DAY2) | [View on GitHub](notebooks/day_2_text_preprocessing/day_2_text_preprocessing_notebook.ipynb)
+* **Notes:** [Download PDF Notes]()
+* **Notebook:** [Open in Colab]() | [View on GitHub]()
 * **Video Recording:** [Watch Session]()
 
 ---
@@ -109,7 +109,7 @@ We welcome contributions to improve these materials! If you find any issues, hav
 Please refer to our [Contributing Guidelines](contributing.md) for more details (if you create this file).
 -->
 ---
-<--
+<!--
 ## 📝 License
 
 This project is licensed under the [MIT License](LICENSE).
