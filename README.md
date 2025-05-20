@@ -19,9 +19,9 @@ This training is structured into several modules/days:
 
 ### Day 1: AN INTRODUCTION TO Artificial Intelligence, Machine Learning, Deep Learning and Introduction to Natural Language Processing (NLP)
 * **Topics Covered:**
-  1️⃣ Introduction to AI, ML, DL, and NLP,
-  2️⃣ Understanding AI vs ML vs DL,
-  3️⃣ Introduction to NLP,
+* * 1️⃣ Introduction to AI, ML, DL, and NLP,
+  * 2️⃣ Understanding AI vs ML vs DL,
+  * 3️⃣ Introduction to NLP,
   4️⃣ NLP Use Cases,
   5️⃣ Text Preprocessing Techniques,
   6️⃣ Hands-on NLP Tasks,
@@ -33,21 +33,21 @@ This training is structured into several modules/days:
 
 ### Day 2: 
 * **Topics Covered:** Tokenization, Stemming, Lemmatization, Stop Word Removal, Regular Expressions, Bag-of-Words (BoW), TF-IDF.
-* **Slides:** [Download PDF Slides](slides/NATURAL_LANGUAGE_PROCESSING_slides_for_day_2.pdf)
+* **Slides:** [Download PDF Slides](slides/NATURAL%20LANGUAGE%20PROCESSING%20slides%20for%20day%202.pdf)
 * **Notes:** [Download PDF Notes](notes/day_2_text_preprocessing_notes.pdf)
 * **Notebook:** [Open in Colab](YOUR_COLAB_LINK_DAY2) | [View on GitHub](notebooks/day_2_text_preprocessing/day_2_text_preprocessing_notebook.ipynb)
 * **Video Recording:** [Watch Session](https://drive.google.com/file/d/1qaAJEvuIs_FXnh5rMpABUK33MldrnO3_/view?usp=sharing)
 
 ### Day 3: 
 * **Topics Covered:** Tokenization, Stemming, Lemmatization, Stop Word Removal, Regular Expressions, Bag-of-Words (BoW), TF-IDF.
-* **Slides:** [Download PDF Slides](slides/NATURAL_LANGUAGE_PROCESSING_slides_for_day_3.pdf)
+* **Slides:** [Download PDF Slides](slides/NATURAL%20LANGUAGE%20PROCESSING%20slides%20for%20day%203.pdf)
 * **Notes:** [Download PDF Notes](notes/day_2_text_preprocessing_notes.pdf)
 * **Notebook:** [Open in Colab](YOUR_COLAB_LINK_DAY2) | [View on GitHub](notebooks/day_2_text_preprocessing/day_2_text_preprocessing_notebook.ipynb)
 * **Video Recording:** [Watch Session](https://drive.google.com/file/d/16Vs0aVZKPgbXwWyWJ0TS0SE-qvPfOaDX/view?usp=sharing)
 
 ### Day 4: 
 * **Topics Covered:** Tokenization, Stemming, Lemmatization, Stop Word Removal, Regular Expressions, Bag-of-Words (BoW), TF-IDF.
-* **Slides:** [Download PDF Slides](slides/NATURAL_LANGUAGE_PROCESSING_slides_for_day_1.pdf)
+* **Slides:** [Download PDF Slides](slides/NATURAL%20LANGUAGE%20PROCESSING%20slides%20for%20day%204.pdf)
 * **Notes:** [Download PDF Notes](notes/day_2_text_preprocessing_notes.pdf)
 * **Notebook:** [Open in Colab](YOUR_COLAB_LINK_DAY2) | [View on GitHub](notebooks/day_2_text_preprocessing/day_2_text_preprocessing_notebook.ipynb)
 * **Video Recording:** [Watch Session](https://drive.google.com/file/d/1p2Cd5dO67KQhiC_zdHFQOMwgQdXRxRAJ/view?usp=sharing)
