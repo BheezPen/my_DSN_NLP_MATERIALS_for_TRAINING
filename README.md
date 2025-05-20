@@ -18,7 +18,14 @@ This training aims to equip participants with:
 This training is structured into several modules/days:
 
 ### Day 1: AN INTRODUCTION TO Artificial Intelligence, Machine Learning, Deep Learning and Introduction to Natural Language Processing (NLP)
-* **Topics Covered:** What is NLP? 1️⃣ Introduction to AI, ML, DL, and NLP, 2️⃣ Understanding AI vs ML vs DL, 3️⃣ Introduction to NLP, 4️⃣ NLP Use Cases, 5️⃣ Text Preprocessing Techniques, 6️⃣ Hands-on NLP Tasks, 7️⃣ Brain Teasers & Discussion
+* **Topics Covered:**
+  1️⃣ Introduction to AI, ML, DL, and NLP,
+  2️⃣ Understanding AI vs ML vs DL,
+  3️⃣ Introduction to NLP,
+  4️⃣ NLP Use Cases,
+  5️⃣ Text Preprocessing Techniques,
+  6️⃣ Hands-on NLP Tasks,
+  7️⃣ Brain Teasers & Discussion
 * **Slides:** [Download PDF Slides](slides/NATURAL_LANGUAGE_PROCESSING_slides_for_day_1.pdf)
 * **Notes:** [Download PDF Notes](notes/day_1_intro_to_nlp_notes.pdf)
 * **Notebook:** [Open in Colab](YOUR_COLAB_LINK_DAY1) | [View on GitHub](notebooks/day_1_intro_to_nlp/day_1_intro_to_nlp_notebook.ipynb)
@@ -26,24 +33,24 @@ This training is structured into several modules/days:
 
 ### Day 2: 
 * **Topics Covered:** Tokenization, Stemming, Lemmatization, Stop Word Removal, Regular Expressions, Bag-of-Words (BoW), TF-IDF.
-* **Slides:** [Download PDF Slides](slides/day_2_text_preprocessing_slides.pdf) | [View Presentation (if hosted online)](YOUR_ONLINE_SLIDE_LINK_DAY2)
+* **Slides:** [Download PDF Slides](slides/NATURAL_LANGUAGE_PROCESSING_slides_for_day_2.pdf)
 * **Notes:** [Download PDF Notes](notes/day_2_text_preprocessing_notes.pdf)
 * **Notebook:** [Open in Colab](YOUR_COLAB_LINK_DAY2) | [View on GitHub](notebooks/day_2_text_preprocessing/day_2_text_preprocessing_notebook.ipynb)
-* **Video Recording:** [Watch Session](YOUR_YOUTUBE_LINK_DAY2)
+* **Video Recording:** [Watch Session](https://drive.google.com/file/d/1qaAJEvuIs_FXnh5rMpABUK33MldrnO3_/view?usp=sharing)
 
 ### Day 3: 
 * **Topics Covered:** Tokenization, Stemming, Lemmatization, Stop Word Removal, Regular Expressions, Bag-of-Words (BoW), TF-IDF.
-* **Slides:** [Download PDF Slides](slides/day_2_text_preprocessing_slides.pdf) | [View Presentation (if hosted online)](YOUR_ONLINE_SLIDE_LINK_DAY2)
+* **Slides:** [Download PDF Slides](slides/NATURAL_LANGUAGE_PROCESSING_slides_for_day_3.pdf)
 * **Notes:** [Download PDF Notes](notes/day_2_text_preprocessing_notes.pdf)
 * **Notebook:** [Open in Colab](YOUR_COLAB_LINK_DAY2) | [View on GitHub](notebooks/day_2_text_preprocessing/day_2_text_preprocessing_notebook.ipynb)
-* **Video Recording:** [Watch Session](YOUR_YOUTUBE_LINK_DAY2)
+* **Video Recording:** [Watch Session](https://drive.google.com/file/d/16Vs0aVZKPgbXwWyWJ0TS0SE-qvPfOaDX/view?usp=sharing)
 
 ### Day 4: 
 * **Topics Covered:** Tokenization, Stemming, Lemmatization, Stop Word Removal, Regular Expressions, Bag-of-Words (BoW), TF-IDF.
-* **Slides:** [Download PDF Slides](slides/day_2_text_preprocessing_slides.pdf) | [View Presentation (if hosted online)](YOUR_ONLINE_SLIDE_LINK_DAY2)
+* **Slides:** [Download PDF Slides](slides/NATURAL_LANGUAGE_PROCESSING_slides_for_day_1.pdf)
 * **Notes:** [Download PDF Notes](notes/day_2_text_preprocessing_notes.pdf)
 * **Notebook:** [Open in Colab](YOUR_COLAB_LINK_DAY2) | [View on GitHub](notebooks/day_2_text_preprocessing/day_2_text_preprocessing_notebook.ipynb)
-* **Video Recording:** [Watch Session](YOUR_YOUTUBE_LINK_DAY2)
+* **Video Recording:** [Watch Session](https://drive.google.com/file/d/1p2Cd5dO67KQhiC_zdHFQOMwgQdXRxRAJ/view?usp=sharing)
 
 ---
 
