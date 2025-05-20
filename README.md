@@ -17,9 +17,9 @@ This training aims to equip participants with:
 
 This training is structured into several modules/days:
 
-### Day 1: Introduction to Natural Language Processing
-* **Topics Covered:** What is NLP?, History and Evolution, Key Applications (Sentiment Analysis, Machine Translation, Chatbots), Basic Text Manipulation.
-* **Slides:** [Download PDF Slides](slides/day_1_intro_to_nlp_slides.pdf) | [View Presentation (if hosted online)](YOUR_ONLINE_SLIDE_LINK_DAY1)
+### Day 1: AN INTRODUCTION TO Artificial Intelligence, Machine Learning, Deep Learning and Introduction to Natural Language Processing (NLP)
+* **Topics Covered:** What is NLP? 1️⃣ Introduction to AI, ML, DL, and NLP, 2️⃣ Understanding AI vs ML vs DL, 3️⃣ Introduction to NLP, 4️⃣ NLP Use Cases, 5️⃣ Text Preprocessing Techniques, 6️⃣ Hands-on NLP Tasks, 7️⃣ Brain Teasers & Discussion
+* **Slides:** [Download PDF Slides](slides/NATURAL LANGUAGE PROCESSING slides for day 1.pdf)
 * **Notes:** [Download PDF Notes](notes/day_1_intro_to_nlp_notes.pdf)
 * **Notebook:** [Open in Colab](YOUR_COLAB_LINK_DAY1) | [View on GitHub](notebooks/day_1_intro_to_nlp/day_1_intro_to_nlp_notebook.ipynb)
 * **Video Recording:** [Watch Session](YOUR_YOUTUBE_LINK_DAY1)
@@ -31,7 +31,19 @@ This training is structured into several modules/days:
 * **Notebook:** [Open in Colab](YOUR_COLAB_LINK_DAY2) | [View on GitHub](notebooks/day_2_text_preprocessing/day_2_text_preprocessing_notebook.ipynb)
 * **Video Recording:** [Watch Session](YOUR_YOUTUBE_LINK_DAY2)
 
-*(Repeat this structure for each day/module)*
+### Day 3: Text Preprocessing and Feature Engineering
+* **Topics Covered:** Tokenization, Stemming, Lemmatization, Stop Word Removal, Regular Expressions, Bag-of-Words (BoW), TF-IDF.
+* **Slides:** [Download PDF Slides](slides/day_2_text_preprocessing_slides.pdf) | [View Presentation (if hosted online)](YOUR_ONLINE_SLIDE_LINK_DAY2)
+* **Notes:** [Download PDF Notes](notes/day_2_text_preprocessing_notes.pdf)
+* **Notebook:** [Open in Colab](YOUR_COLAB_LINK_DAY2) | [View on GitHub](notebooks/day_2_text_preprocessing/day_2_text_preprocessing_notebook.ipynb)
+* **Video Recording:** [Watch Session](YOUR_YOUTUBE_LINK_DAY2)
+
+### Day 2: Text Preprocessing and Feature Engineering
+* **Topics Covered:** Tokenization, Stemming, Lemmatization, Stop Word Removal, Regular Expressions, Bag-of-Words (BoW), TF-IDF.
+* **Slides:** [Download PDF Slides](slides/day_2_text_preprocessing_slides.pdf) | [View Presentation (if hosted online)](YOUR_ONLINE_SLIDE_LINK_DAY2)
+* **Notes:** [Download PDF Notes](notes/day_2_text_preprocessing_notes.pdf)
+* **Notebook:** [Open in Colab](YOUR_COLAB_LINK_DAY2) | [View on GitHub](notebooks/day_2_text_preprocessing/day_2_text_preprocessing_notebook.ipynb)
+* **Video Recording:** [Watch Session](YOUR_YOUTUBE_LINK_DAY2)
 
 ---
 
