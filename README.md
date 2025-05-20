@@ -19,13 +19,13 @@ This training is structured into 5 days training:
 
 ### Day 1: AN INTRODUCTION TO Artificial Intelligence, Machine Learning, Deep Learning and Introduction to Natural Language Processing (NLP)
 * **Topics Covered:**
-* * 1️⃣ Introduction to AI, ML, DL, and NLP,
+  * 1️⃣ Introduction to AI, ML, DL, and NLP,
   * 2️⃣ Understanding AI vs ML vs DL,
   * 3️⃣ Introduction to NLP,
-  4️⃣ NLP Use Cases,
-  5️⃣ Text Preprocessing Techniques,
-  6️⃣ Hands-on NLP Tasks,
-  7️⃣ Brain Teasers & Discussion
+  * 4️⃣ NLP Use Cases,
+  * 5️⃣ Text Preprocessing Techniques,
+  * 6️⃣ Hands-on NLP Tasks,
+  * 7️⃣ Brain Teasers & Discussion
 * **Slides:** [Download PDF Slides](slides/NATURAL%20LANGUAGE%20PROCESSING%20slides%20for%20day%201.pdf)
 * **Notes:** [Download PDF Notes](notes/day_1_intro_to_nlp_notes.pdf)
 * **Notebook:** [Open in Colab](YOUR_COLAB_LINK_DAY1) | [View on GitHub](notebooks/day_1_intro_to_nlp/day_1_intro_to_nlp_notebook.ipynb)
@@ -79,7 +79,7 @@ To run the notebooks locally, you'll need Python 3.8+ and the following librarie
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/BheezPen/my_DSN_NLP_MATERIALS_for_TRAINING.git](https://github.com/BheezPen/my_DSN_NLP_MATERIALS_for_TRAINING.git)
+    git clone https://github.com/BheezPen/my_DSN_NLP_MATERIALS_for_TRAINING.git
     
     cd my_DSN_NLP_MATERIALS_for_TRAINING
     ```
