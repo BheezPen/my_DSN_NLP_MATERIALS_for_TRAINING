@@ -26,7 +26,7 @@ This training is structured into several modules/days:
   5️⃣ Text Preprocessing Techniques,
   6️⃣ Hands-on NLP Tasks,
   7️⃣ Brain Teasers & Discussion
-* **Slides:** [Download PDF Slides](slides/NATURAL_LANGUAGE_PROCESSING_slides_for_day_1.pdf)
+* **Slides:** [Download PDF Slides](slides/NATURAL%20LANGUAGE%20PROCESSING%20slides%20for%20day%201.pdf)
 * **Notes:** [Download PDF Notes](notes/day_1_intro_to_nlp_notes.pdf)
 * **Notebook:** [Open in Colab](YOUR_COLAB_LINK_DAY1) | [View on GitHub](notebooks/day_1_intro_to_nlp/day_1_intro_to_nlp_notebook.ipynb)
 * **Video Recording:** [Watch Session](https://drive.google.com/file/d/1RiMM2Fv5YEPvGqKIEjAjDVtEbpdS1fCs/view?usp=sharing)
