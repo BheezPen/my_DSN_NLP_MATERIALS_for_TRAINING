@@ -79,7 +79,8 @@ To run the notebooks locally, you'll need Python 3.8+ and the following librarie
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/my_DSN_NLP_MATERIALS_for_TRAINING.git](https://github.com/your-username/my_DSN_NLP_MATERIALS_for_TRAINING.git)
+    git clone [https://github.com/BheezPen/my_DSN_NLP_MATERIALS_for_TRAINING.git](https://github.com/BheezPen/my_DSN_NLP_MATERIALS_for_TRAINING.git)
+    
     cd my_DSN_NLP_MATERIALS_for_TRAINING
     ```
 2.  **Create and activate a virtual environment (optional but recommended):**
