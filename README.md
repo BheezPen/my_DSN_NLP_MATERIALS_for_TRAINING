@@ -15,7 +15,7 @@ This training aims to equip participants with:
 
 ## 📚 Course Outline / Sessions
 
-This training is structured into several modules/days:
+This training is structured into 5 days training:
 
 ### Day 1: AN INTRODUCTION TO Artificial Intelligence, Machine Learning, Deep Learning and Introduction to Natural Language Processing (NLP)
 * **Topics Covered:**
@@ -52,6 +52,13 @@ This training is structured into several modules/days:
 * **Notebook:** [Open in Colab](YOUR_COLAB_LINK_DAY2) | [View on GitHub](notebooks/day_2_text_preprocessing/day_2_text_preprocessing_notebook.ipynb)
 * **Video Recording:** [Watch Session](https://drive.google.com/file/d/1p2Cd5dO67KQhiC_zdHFQOMwgQdXRxRAJ/view?usp=sharing)
 
+### Day 5: 
+* **Topics Covered:** Hands-On Project
+* **Slides:** [Download PDF Slides]()
+* **Notes:** [Download PDF Notes](notes/day_2_text_preprocessing_notes.pdf)
+* **Notebook:** [Open in Colab](YOUR_COLAB_LINK_DAY2) | [View on GitHub](notebooks/day_2_text_preprocessing/day_2_text_preprocessing_notebook.ipynb)
+* **Video Recording:** [Watch Session]()
+
 ---
 
 ## 🔗 Quick Links
@@ -64,11 +71,55 @@ This training is structured into several modules/days:
 
 ---
 
+---
+
 ## 🛠️ Setup and Requirements
 
-To run the notebooks, i recommend runnign from the cloud.
-If you intend to run locally, you'll need Python 3.8+ and the following libraries: 
-(will be included later)
+To run the notebooks locally, you'll need Python 3.8+ and the following libraries. It's highly recommended to use a virtual environment.
 
-```bash
-pip install -r requirements.txt
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/your-username/my_DSN_NLP_MATERIALS_for_TRAINING.git](https://github.com/your-username/my_DSN_NLP_MATERIALS_for_TRAINING.git)
+    cd my_DSN_NLP_MATERIALS_for_TRAINING
+    ```
+2.  **Create and activate a virtual environment (optional but recommended):**
+    ```bash
+    python -m venv venv
+    # On Windows
+    .\venv\Scripts\activate
+    # On macOS/Linux
+    source venv/bin/activate
+    ```
+3.  **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+<!-- Create a `requirements.txt` file by running `pip freeze > requirements.txt` in your activated virtual environment after installing all necessary libraries for your notebooks. Common NLP libraries include `nltk`, `spacy`, `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `jupyterlab`.
+-->
+---
+
+## 🤝 Contributing
+
+We welcome contributions to improve these materials! If you find any issues, have suggestions for new content, or want to contribute bug fixes, please feel free to:
+
+1.  **Open an issue:** Describe the problem or suggestion in detail.
+2.  **Fork the repository:** Make your changes and submit a pull request.
+<!--
+Please refer to our [Contributing Guidelines](contributing.md) for more details (if you create this file).
+-->
+---
+<--
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+-->
+## 🙏 Acknowledgements
+
+* Thanks to the DSN community for giving me a chance to develop this material and train it's community.
+* Special thanks to everyone who contributed or whose resource i have used.
+
+---
+
+*Last Updated: March 2025*
